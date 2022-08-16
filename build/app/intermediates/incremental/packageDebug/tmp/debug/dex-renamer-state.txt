@@ -1,0 +1,4 @@
+#Tue Aug 16 11:07:25 COT 2022
+base.0=D\:\\PROYECTOS-DIRESA\\movil\\medic\\medic\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
